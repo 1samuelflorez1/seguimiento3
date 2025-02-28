@@ -1,0 +1,139 @@
+
+
+body{
+
+    background-image: url(./recursos/fondo.jpg);
+    background-size: cover;
+    position: flex;
+    align-items: center;
+    justify-items: center;
+    font-family: Nunito;
+    
+}
+
+.cuadro-principal {
+
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 540px;
+    align-items: center;
+    border-radius: 30px;
+    margin-top: 100px;
+    position: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.cuadro-principal h1{
+
+     margin-top: 100px;
+
+
+}
+
+.cuadro-principal img{
+
+    width: 290px;
+
+}
+
+.cuadro-principal button{
+
+    padding-left: 200px;
+    padding-right: 200px;
+    border-radius: 50px;
+    background-color: red;
+    border: 0;
+    height: 40px;
+    color: white;
+    
+
+}
+
+.cuadro-principal input{
+
+    width: 98%;
+    border-radius: 50px;
+    height: 20px;
+
+}
+
+.cuadro-principal h1{
+
+    font-size: 25px;
+    padding-top: 35px;
+
+}
+
+.campos {
+
+    position: relative;
+    margin-bottom: 20px;
+    text-align: left;
+
+}
+
+.campos input{
+
+    width: 90%;
+    padding: 10px;
+    padding-left: 40px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    outline: none;
+
+}
+
+.campos .icono {
+
+    position: absolute;
+    left: 15px;
+    top: 12px;
+    color: gray;
+}
+
+.cuadro-principal p{
+
+    font-size: 10px;
+
+}
+
+.register{
+
+    margin-top: -10px;
+
+}
+
+.social{
+
+    border-radius: 100px;
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    width: 15px;
+    height: 15px;
+}
+
+.social2{
+
+    border-radius: 100px;
+    background-color: rgb(72, 201, 244);
+    color: white;
+    padding: 7px;
+
+}
+
+.social3{
+
+    border-radius: 100px;
+    background-color: rgb(213, 80, 13);
+    color: white;
+    padding: 7px;
+
+}
+
+.cuadro-principal a{
+
+    display: flex;
+
+}
