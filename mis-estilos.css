@@ -50,6 +50,11 @@ body{
 
 }
 
+#boton-final:hover{
+opacity: 0.5;
+
+}
+
 .cuadro-principal input{
 
     width: 98%;
@@ -135,5 +140,16 @@ body{
 .cuadro-principal a{
 
     display: flex;
+
+}
+
+#pagina:hover{
+opacity: 0.5;
+
+}
+
+.cuadro-principal{
+
+    box-shadow: 0px 1px 10px black;
 
 }
